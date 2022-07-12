@@ -44,28 +44,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://vt.tiktok.com/ZSdoWvkwf/'
 global.sgh = 'https://github.com/zero-zez'
 global.sgc = 'https://chat.whatsapp.com/D05rhi0ELaOCPrEVq9qLf9'
-global.sdc = 'https://wa.me/+6283178502766'
+global.sdc = 'https://wa.me/+6282154156241'
 global.snh = 'https://youtube.com/channel/UCJ-AJ4DAfOL75-jpJi3m2ow'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083178502766'
+global.pdana = '082154156241'
 global.povo = '-CLOSE-'
-global.pgopay = '085161732766'
+global.pgopay = '082154156241'
 global.pqris = 'Redy'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '1(873)7302363'
-global.nomorown = '6283178502766'
+global.nomorbot = '6285787280596'
+global.nomorown = '6282154156241'
 global.namebot = '⳹ ❋ཻུ۪۪⸙Zerobotz-MD⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ Zeroঔৣ꧂'
+global.nameown = 'Amirr'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283178502766'],
-  ['6283178502766'],
-  ['6283178502766'],
-  ['6283178502766', 'Zero', true]
+  ['6282154156241'],
+  ['6282154156241'],
+  ['6282154156241'],
+  ['6282154156241', 'Amirr', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
