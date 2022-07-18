@@ -54,7 +54,7 @@ global.pgopay = '082154156241'
 global.pqris = 'Redy'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285787280596'
+global.nomorbot = '6285321043537'
 global.nomorown = '6282154156241'
 global.namebot = '⳹ ❋ཻུ۪۪⸙Zerobotz-MD⳹ ❋ཻུ۪۪'
 global.nameown = 'Amirr'
